@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+    font-size: 35px;
+    text-align: center;/*centra el texto*/
+    font-family: "Macondo", cursive; /*fuente de fonts.google.com*/
+    font-family: "Roboto", sans-serif;
+    border-width: 10px;
+    border-style: solid;
+    margin: 20px;
+  }
+  h3 {
+    color: blue;
+    font-family: Verdana;
+  }
+  p {
+    color: indigo;
+  }
+  .azul {
+    color: blue;
+  }
+  .amarillo {
+    color: gold;
+  }
+ #gato {
+     padding-right: 20px;
+    
+  }
+   #imagen-de-gatito {
+    border-width:3px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+
+  
